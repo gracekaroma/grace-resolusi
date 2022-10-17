@@ -2,9 +2,12 @@ RENCANA TA GRACE
 
 - TA 1 = Selesai Semester Ganjil
   * Jadi Proposal
+    ^ Jurnal Terdahulu
+    ^ Batasan Masalah
   
 - TA 2 = Selesai Semester Genap
-  * Jadi Proyek + dipake orang
+  * Jadi Proyek
+    ^ ACC Supervisor
   
 - TA 3 = Selesai Semester Genap
 
