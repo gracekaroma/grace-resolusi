@@ -2,7 +2,11 @@ RENCANA TA GRACE
 
 - TA 1 = Selesai Semester Ganjil
   * Jadi Proposal
-  
+    ^ Latar Belakang
+    ^ Rumusan Masalah
+    ^ Tujuan & Manfaat
+    ^ Landasan Teori
+    
 - TA 2 = Selesai Semester Genap
   * Jadi Proyek + dipake orang
   
